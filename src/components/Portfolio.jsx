@@ -1,7 +1,7 @@
 import air from "../assets/portfolio/air.png";
-import watch from "../assets/portfolio/watch.png";
-import sign from "../assets/portfolio/sign.png";
+import anime from '../assets/portfolio/anime.png'
 import newl from "../assets/portfolio/new.png"
+import sales from "../assets/portfolio/sales..png"
 
 const Portfolio = () => {
   const portfolios = [
@@ -11,11 +11,11 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      src: watch,
+      src: anime,
     },
     {
       id: 3,
-      src: sign,
+      src: sales,
     },
     {
       id: 4,

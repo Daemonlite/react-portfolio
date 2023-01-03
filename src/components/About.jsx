@@ -25,7 +25,7 @@ const About = () => {
       <br />
 
       <p className="text-xl">
-      I worked hard to be a we developer because I enjoy building amazing projects. 
+      I worked hard to be a web developer because I enjoy building amazing projects. 
       In fact, the best (and most important) part of my job is when
       I am able to get a web app functioning without bugs and errors.
        With the number of industries upcoming i will be glad to play a major
