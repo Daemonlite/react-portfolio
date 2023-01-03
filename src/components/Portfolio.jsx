@@ -1,7 +1,7 @@
 import air from "../assets/portfolio/air.png";
 import anime from '../assets/portfolio/anime.png'
 import newl from "../assets/portfolio/new.png"
-import sales from "../assets/portfolio/sales..png"
+import sales from "../assets/portfolio/sales.png"
 
 const Portfolio = () => {
   const portfolios = [
